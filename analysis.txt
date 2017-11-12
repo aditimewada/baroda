@@ -1,0 +1,47 @@
+First, we found the factors that the income level, the spending level, the number of
+businesses, and the size of workforce in the pertinent region were influence to the size of a
+bank’s market
+
+
+ population, income, branch function, competition, land value, and future
+development potential, etc. 
+
+Huff suggested the traffic hours and the type of traded goods as the
+contributing factors. 
+
+ the geographical
+characteristics of a location as another significant factor
+
+customer
+characteristics and the branch characteristics( the number of branches of other financial
+institutions in the region is an important factor) as two significant location factors.
+
+they had first selected the regional economic foundation, the regional economic strength, and the demand inductivity as the detailed location factors of a bank branch, which then formed
+the basis of the analysis
+
+
+
+This study is based on the data that was gathered in Seoul region at the end of 2004. The
+data can be classified into three types.
+The first type of data relates to the characteristics of administrative district. Here, the
+information about the population, the number of businesses and employees, the income, and
+the spending patterns are included. 
+factors that influence a bank’s profitability. This data was constructed by incorporating the
+data from the National Statistical Office and the consumer surveys.
+The second type is the Inter-regional financial transaction data. This was produced by
+gathering and processing the financial transaction information between the administrative
+districts. This data indicates the frequency of financial transactional relationship between
+districts. The more detailed form of data takes the binary format, which indicates the
+existence of relationships between administrative districts. This data was gathered by
+analyzing the customer transaction logs for Bank A to understand the inter-district transaction
+patterns and to use it in building a branch strategy.
+The third type of data includes information regarding the quantity and the size of banks
+within each administrative district. This data was conjectured by incorporating the data from
+the Bank’s association and the consumer surveys. 
+
+
+
+
+
+
+api: AIzaSyBwHgotLbWEXP4VM_KAM7gc0icK28wAxgo
